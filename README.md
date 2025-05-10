@@ -1,5 +1,5 @@
 # Projeto: Sistema de Fila Clínica
-Nesse projeto, você encontrará um sistema de gerenciamento de fila numa Clínica, desenvolvido com Python e Flask.
+O projeto que desenvolvi, consiste num sistema de gerenciamento de fila numa Clínica, desenvolvido com Python e Flask.
 (Com geração de senhas a depender da especialidade procurada, e fluxo baseado na simulação de 2 guichês operando atendimento).
 
 ## Funcionalidades
